@@ -1,7 +1,6 @@
 import java.util.*;
 class Solution {
     public int majorityElement(int[] nums){
-        int l=nums.length;
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int num : nums){
             if(map.containsKey(num)){
@@ -11,12 +10,11 @@ class Solution {
                 map.put(num,1);
             }
         }
-        int ele=0;
         for(int key : map.keySet()){
-            if(map.get(key) > l/2){
-                ele=key;
+            if(map.get(key) > nums.length/2){
+                return key;
             }
         }
-        return ele;
+        return 0;
     }
 }
