@@ -1,22 +1,17 @@
 class Solution {
-  public int countSet(int n){
-    int count=0;
-      while(n>1){
-        if(n%2==1){
-          count++;
+    public int[] countBits(int n) {
+        int[] result = new int[n+1];
+        result[0] = 0;        
+        int goBack = 0;
+        for (int i = 1; i <= n; i++){
+            if ((i&i-1) == 0) { // case of shifting to single 1 bit
+                result[i] = 1;
+                goBack = i;
+            } else {
+                result[i] = result[i - goBack] +1;
+            }
         }
-        n/=2;
-      }
-      if(n==1){
-        count++;
-      }
-      return count;
-  }
-  public int[] countBits(int n) {
-      int arr[] = new int[n+1];
-      for(int i=0;i<=n;i++){
-        arr[i]=countSet(i);
-      }
-    return arr;
+
+        return result;
     }
 }
