@@ -31,12 +31,7 @@ class Solution {
         int left=0,right=0,maxfruites=0;
         HashMap<Integer,Integer> map = new HashMap<>();
         while(right < n){
-            if(map.containsKey(fruits[right])){
-                map.put(fruits[right],map.get(fruits[right])+1);
-            }
-            else{
-                map.put(fruits[right],1);
-            }
+            map.put(fruits[right], map.getOrDefault(fruits[right], 0) + 1);
             if(map.size() > 2){
                 map.put(fruits[left],map.get(fruits[left])-1);
                 if(map.get(fruits[left])==0){
