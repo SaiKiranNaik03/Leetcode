@@ -1,6 +1,6 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int prev[]=new int[]{-1,-1,-1};
+        int prev[]={-1,-1,-1};
         int n=s.length(),count=0;
         for(int i=0;i<n;i++){
             char ch=s.charAt(i);
