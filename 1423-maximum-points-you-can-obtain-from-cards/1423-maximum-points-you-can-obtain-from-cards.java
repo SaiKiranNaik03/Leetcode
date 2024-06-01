@@ -16,10 +16,11 @@ class Solution {
                 maxPoints=points;
             }
         }
-        right=0;
-        for(int i=n-k;i<n;i++){
-            right+=cardPoints[i];
-        }
+        right+=cardPoints[n-k];
+        // right=0;
+        // for(int i=n-k;i<n;i++){
+        //     right+=cardPoints[i];
+        // }
         if(right > maxPoints){
             maxPoints=right;
         }
