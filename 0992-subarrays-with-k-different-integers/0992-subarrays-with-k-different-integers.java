@@ -4,12 +4,13 @@ class Solution {
         int left=0,right=0,count=0;
         HashMap<Integer,Integer> map = new HashMap<>();
         while(right < n){
-            if(map.containsKey(nums[right])){
-                map.put(nums[right],map.get(nums[right])+1);
-            }
-            else{
-                map.put(nums[right],1);
-            }
+            // if(map.containsKey(nums[right])){
+            //     map.put(nums[right],map.get(nums[right])+1);
+            // }
+            // else{
+            //     map.put(nums[right],1);
+            // }
+            map.put(nums[right],map.getOrDefault(nums[right],0)+1);
             while(map.size() > k){
                 map.put(nums[left],map.get(nums[left])-1);
                 if(map.get(nums[left])==0){
