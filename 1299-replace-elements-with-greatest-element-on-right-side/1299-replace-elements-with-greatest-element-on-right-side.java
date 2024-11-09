@@ -1,19 +1,16 @@
 class Solution {
-    public static int getMax(int nums[],int i){
-        int maxi = nums[i];
-        for(int j=i;j<nums.length;j++){
-            if(nums[j] > maxi){
-                maxi=nums[j];
-            }
-        }
-        return maxi;
-    }
+   
     public int[] replaceElements(int[] arr) {
-        for(int i=0;i<arr.length-1;i++){
-            int m = getMax(arr,i+1);
-            arr[i]=m;
+        int l=arr.length-1;
+        int mx=arr[l];
+        arr[l]=-1;
+        for(int i=l-1;i>=0;i--)
+        {
+            int c=arr[i];
+            arr[i]=mx;
+            if(mx<c)
+            mx=c;
         }
-        arr[arr.length-1]=-1;
         return arr;
     }
 }
