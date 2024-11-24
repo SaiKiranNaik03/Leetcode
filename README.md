@@ -62,6 +62,7 @@ leetcode programs!
 | [0020-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -103,6 +104,7 @@ leetcode programs!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0735-asteroid-collision) |
@@ -113,6 +115,7 @@ leetcode programs!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -121,9 +124,14 @@ leetcode programs!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0735-asteroid-collision) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
