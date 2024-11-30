@@ -12,6 +12,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0287-find-the-duplicate-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -139,6 +141,7 @@ leetcode programs!
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
