@@ -113,6 +113,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -140,6 +141,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0118-pascals-triangle) |
@@ -157,6 +159,7 @@ leetcode programs!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
