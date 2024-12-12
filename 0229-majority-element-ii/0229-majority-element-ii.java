@@ -8,6 +8,9 @@ class Solution {
             if(map.get(ele) == key){
                 lst.add(ele);
             }
+            if(lst.size() == 2){
+                break;
+            }
         }
         return lst;
     }
