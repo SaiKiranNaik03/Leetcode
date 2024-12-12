@@ -21,6 +21,7 @@ leetcode programs!
 | [0141-linked-list-cycle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -88,6 +89,7 @@ leetcode programs!
 | ------- |
 | [0056-merge-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
 ## Merge Sort
@@ -124,6 +126,7 @@ leetcode programs!
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0135-candy) |
+| [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
@@ -184,4 +187,8 @@ leetcode programs!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0062-unique-paths) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
