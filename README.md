@@ -15,6 +15,7 @@ leetcode programs!
 | [0069-sqrtx](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +104,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -140,6 +143,7 @@ leetcode programs!
 | [0287-find-the-duplicate-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0735-asteroid-collision) |
@@ -202,4 +206,16 @@ leetcode programs!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
