@@ -51,9 +51,9 @@ class Solution {
             System.arraycopy(image[i], 0, temp[i], 0, m);
         }
         
-        if (cl != color) {
+        // if (cl != color) {
             bfs(sr, sc, cl, color, temp, vist);
-        }
+        // }
         
         return temp;
     }
