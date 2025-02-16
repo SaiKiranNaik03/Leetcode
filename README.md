@@ -148,6 +148,7 @@ leetcode programs!
 | [0118-pascals-triangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -195,6 +196,7 @@ leetcode programs!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
@@ -237,4 +239,16 @@ leetcode programs!
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
