@@ -160,6 +160,7 @@ leetcode programs!
 | [0735-asteroid-collision](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1036-rotting-oranges) |
 | [2227-sum-of-subarray-ranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Monotonic Stack
@@ -199,6 +200,7 @@ leetcode programs!
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1036-rotting-oranges) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
@@ -251,6 +253,7 @@ leetcode programs!
 | ------- |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
