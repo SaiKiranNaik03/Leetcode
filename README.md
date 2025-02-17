@@ -163,6 +163,7 @@ leetcode programs!
 | [0890-lemonade-change](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2227-sum-of-subarray-ranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Monotonic Stack
@@ -206,6 +207,7 @@ leetcode programs!
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
@@ -254,6 +256,7 @@ leetcode programs!
 | [0130-surrounded-regions](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -262,9 +265,11 @@ leetcode programs!
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
