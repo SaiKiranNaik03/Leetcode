@@ -146,6 +146,7 @@ leetcode programs!
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
@@ -200,6 +201,7 @@ leetcode programs!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
@@ -249,11 +251,13 @@ leetcode programs!
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
@@ -261,5 +265,6 @@ leetcode programs!
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
