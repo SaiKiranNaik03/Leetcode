@@ -15,7 +15,6 @@ class Solution {
             adj.add(new ArrayList<>());
         }
 
-        // Construct adjacency list
         for (int[] pre : prerequisites) {
             adj.get(pre[1]).add(pre[0]);
         }
@@ -46,6 +45,6 @@ class Solution {
             }
         }
 
-        return count == numCourses; // Return true if we can take all courses (no cycle)
+        return count == numCourses; 
     }
 }
