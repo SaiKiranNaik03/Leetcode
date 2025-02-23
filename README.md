@@ -259,6 +259,7 @@ leetcode programs!
 | [0210-course-schedule-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -270,6 +271,7 @@ leetcode programs!
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -285,9 +287,11 @@ leetcode programs!
 | [0207-course-schedule](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
