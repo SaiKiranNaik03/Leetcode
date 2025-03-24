@@ -294,4 +294,8 @@ leetcode programs!
 | [0207-course-schedule](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
