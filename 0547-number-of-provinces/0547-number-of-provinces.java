@@ -1,37 +1,39 @@
 class Solution {
-    
-    public static void dfs(int node, ArrayList<ArrayList<Integer>> rep2,int visit[]){
-        visit[node]=1;
-        for(Integer n : rep2.get(node)){
-            if(visit[n] == 0){
-                visit[n]=1;
-                dfs(n,rep2,visit);
+    public static void bfs(int start, ArrayList<ArrayList<Integer>> rep, int vist[]){
+        Queue<Integer> q = new LinkedList<>();
+        vist[start] = 1;
+        q.add(start);
+        while(!q.isEmpty()){
+            int nd = q.peek();
+            q.poll();
+            for(Integer n : rep.get(nd)){
+                if(vist[n] == 0){
+                    vist[n]=1;
+                    q.add(n);
+                }
             }
         }
     }
     public int findCircleNum(int[][] isConnected) {
         int v = isConnected.length;
-        ArrayList<ArrayList<Integer>> rep2 = new ArrayList<>();
-        
+        ArrayList<ArrayList<Integer>> rep = new ArrayList<>();
         for(int i=0;i<v;i++){
-            rep2.add(new ArrayList<Integer>());
+            rep.add(new ArrayList<>());
         }
-        
+
         for(int i=0;i<v;i++){
-            for(int j=0;j<v; j++){
+            for(int j=0;j<v;j++){
                 if(i!=j && isConnected[i][j]==1){
-                    rep2.get(i).add(j);
+                    rep.get(i).add(j);
                 }
             }
         }
-        
-        int visit[] = new int[v+1];
         int c=0;
-        
+        int vist[] = new int[v];
         for(int i=0;i<v;i++){
-            if(visit[i] == 0){
+            if(vist[i] != 1){
                 c++;
-                dfs(i,rep2,visit);
+                bfs(i,rep,vist);
             }
         }
         return c;
