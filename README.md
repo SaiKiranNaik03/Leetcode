@@ -13,6 +13,7 @@ leetcode programs!
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2998-count-symmetric-integers](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -339,4 +340,8 @@ leetcode programs!
 | [1908-recyclable-and-low-fat-products](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
