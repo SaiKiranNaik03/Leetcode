@@ -21,6 +21,7 @@ leetcode programs!
 | [0074-search-a-2d-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -171,6 +172,7 @@ leetcode programs!
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -215,6 +217,7 @@ leetcode programs!
 | [0118-pascals-triangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -244,6 +247,7 @@ leetcode programs!
 | [0055-jump-game](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -362,4 +366,8 @@ leetcode programs!
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2998-count-symmetric-integers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
