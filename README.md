@@ -197,6 +197,7 @@ leetcode programs!
 | [2227-sum-of-subarray-ranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2486-most-frequent-even-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2737-row-with-maximum-ones](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -243,6 +244,7 @@ leetcode programs!
 | [1036-rotting-oranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2737-row-with-maximum-ones](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Greedy
 |  |
 | ------- |
