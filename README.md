@@ -18,6 +18,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -160,6 +161,7 @@ leetcode programs!
 | [0004-median-of-two-sorted-arrays](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0045-jump-game-ii) |
