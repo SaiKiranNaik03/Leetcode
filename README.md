@@ -13,6 +13,7 @@ leetcode programs!
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2032-largest-odd-number-in-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2998-count-symmetric-integers](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
@@ -158,6 +159,7 @@ leetcode programs!
 | [0402-remove-k-digits](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -277,6 +279,7 @@ leetcode programs!
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
