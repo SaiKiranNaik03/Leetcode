@@ -46,6 +46,7 @@ leetcode programs!
 | [0142-linked-list-cycle-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -130,6 +131,7 @@ leetcode programs!
 | [0088-merge-sorted-array](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
@@ -156,6 +158,7 @@ leetcode programs!
 | [0020-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
