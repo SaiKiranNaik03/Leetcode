@@ -7,6 +7,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
@@ -41,6 +42,7 @@ leetcode programs!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -158,6 +160,7 @@ leetcode programs!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
