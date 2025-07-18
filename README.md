@@ -172,6 +172,7 @@ leetcode programs!
 | [0014-longest-common-prefix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0242-valid-anagram) |
