@@ -47,6 +47,7 @@ leetcode programs!
 | [0141-linked-list-cycle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
@@ -170,6 +171,7 @@ leetcode programs!
 | [0014-longest-common-prefix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0402-remove-k-digits) |
