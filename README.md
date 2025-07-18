@@ -74,6 +74,7 @@ leetcode programs!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -160,6 +161,7 @@ leetcode programs!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0020-valid-parentheses) |
@@ -244,6 +246,7 @@ leetcode programs!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0045-jump-game-ii) |
