@@ -53,6 +53,7 @@ leetcode programs!
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2486-most-frequent-even-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -180,6 +181,7 @@ leetcode programs!
 | [0812-rotate-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -440,4 +442,8 @@ leetcode programs!
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
