@@ -17,7 +17,7 @@ class Solution {
         ListNode res = new ListNode(-1);
         ListNode temp = res;
         int carry = 0;
-        while(temp1 != null || temp2 != null || carry !=0){
+        while(temp1 != null || temp2 != null){
             int s = carry;
             if(temp1 != null){
                 s+=temp1.val;
