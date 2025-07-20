@@ -1,20 +1,22 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int ele : nums){
-            if(map.containsKey(ele)){
-                map.put(ele,map.get(ele)+1);
+        int result = 0;
+
+        for (int i = 0; i < 32; i++) {
+            int bitCount = 0;
+
+            for (int num : nums) {
+                if (((num >> i) & 1) == 1) {
+                    bitCount++;
+                }
             }
-            else{
-                map.put(ele,1);
+
+            if (bitCount % 3 != 0) {
+                result |= (1 << i);
             }
         }
-        
-        for(int key : map.keySet()){
-            if(map.get(key)==1){
-                return key;
-            }
-        }
-        return -1;
+
+        return result;
     }
+
 }
