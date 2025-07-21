@@ -44,6 +44,7 @@ leetcode programs!
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -185,6 +186,7 @@ leetcode programs!
 | [0020-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0242-valid-anagram) |
@@ -465,6 +467,7 @@ leetcode programs!
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
