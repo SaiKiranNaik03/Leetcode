@@ -54,6 +54,7 @@ leetcode programs!
 | [0424-longest-repeating-character-replacement](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -248,6 +249,7 @@ leetcode programs!
 | [0890-lemonade-change](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -447,6 +449,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -463,5 +466,6 @@ leetcode programs!
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
