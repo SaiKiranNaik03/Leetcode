@@ -39,6 +39,7 @@ leetcode programs!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2294-minimum-time-to-complete-trips](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ leetcode programs!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2294-minimum-time-to-complete-trips](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2486-most-frequent-even-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2737-row-with-maximum-ones) |
