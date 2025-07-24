@@ -46,6 +46,7 @@ leetcode programs!
 | [0013-roman-to-integer](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -226,6 +227,7 @@ leetcode programs!
 | [0088-merge-sorted-array](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0137-single-number-ii) |
@@ -396,6 +398,7 @@ leetcode programs!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0547-number-of-provinces) |
