@@ -57,6 +57,7 @@ leetcode programs!
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -85,6 +86,7 @@ leetcode programs!
 | [0234-palindrome-linked-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -177,6 +179,7 @@ leetcode programs!
 | [0155-min-stack](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -498,4 +501,5 @@ leetcode programs!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
