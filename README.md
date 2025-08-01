@@ -11,6 +11,7 @@ leetcode programs!
 | [0062-unique-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -121,6 +122,7 @@ leetcode programs!
 | [0203-remove-linked-list-elements](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -309,6 +311,7 @@ leetcode programs!
 | [0118-pascals-triangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
