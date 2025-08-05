@@ -1,35 +1,33 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
+        int V = graph.length;
+        ArrayList<ArrayList<Integer>> revGraph = new ArrayList<>();
+        int[] inDeg = new int[V];
         List<Integer> res = new ArrayList<>();
-        
-        if (graph == null || graph.length == 0) {
-            return res;
-        }
 
-        int[] color = new int[graph.length];
+        for (int i = 0; i < V; i++) revGraph.add(new ArrayList<>());
 
-        for (int i = 0; i < graph.length; i++) {
-            if (isSafe(graph, i, color)) {
-                res.add(i);
+        for (int i = 0; i < V; i++) {
+            for (int nbr : graph[i]) {
+                revGraph.get(nbr).add(i);
+                inDeg[i]++;
             }
         }
 
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i < V; i++) {
+            if (inDeg[i] == 0) q.add(i);
+        }
+
+        while (!q.isEmpty()) {
+            int node = q.poll();
+            res.add(node);
+            for (int prev : revGraph.get(node)) {
+                inDeg[prev]--;
+                if (inDeg[prev] == 0) q.add(prev);
+            }
+        }
+        Collections.sort(res);
         return res;
-    }
-
-    private boolean isSafe(int[][] graph, int node, int[] color) {
-        if (color[node] != 0) {
-            return color[node] == 1;
-        }
-
-        color[node] = 2;
-
-        for (int neighbor : graph[node]) {
-            if (!isSafe(graph, neighbor, color)) {
-                return false;
-            }
-        }
-        color[node] = 1;
-        return true;
     }
 }
