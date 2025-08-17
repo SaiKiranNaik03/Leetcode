@@ -9,6 +9,7 @@ leetcode programs!
 | [0002-add-two-numbers](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -211,6 +212,7 @@ leetcode programs!
 | [0020-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
@@ -337,6 +339,7 @@ leetcode programs!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0735-asteroid-collision) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -374,6 +377,7 @@ leetcode programs!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
