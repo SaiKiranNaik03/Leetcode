@@ -13,6 +13,7 @@ leetcode programs!
 | [0069-sqrtx](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0263-ugly-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
