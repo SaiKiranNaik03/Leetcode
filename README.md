@@ -106,6 +106,7 @@ leetcode programs!
 | [0015-3sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -211,6 +212,7 @@ leetcode programs!
 | [0013-roman-to-integer](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0067-add-binary) |
@@ -524,6 +526,7 @@ leetcode programs!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
