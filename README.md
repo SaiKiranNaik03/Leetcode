@@ -15,6 +15,7 @@ leetcode programs!
 | [0233-number-of-digit-one](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0292-nim-game) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -562,4 +563,12 @@ leetcode programs!
 | [0102-binary-tree-level-order-traversal](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
