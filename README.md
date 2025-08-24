@@ -11,6 +11,7 @@ leetcode programs!
 | [0062-unique-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0263-ugly-number) |
@@ -331,6 +332,7 @@ leetcode programs!
 | [0045-jump-game-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -577,5 +579,6 @@ leetcode programs!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
