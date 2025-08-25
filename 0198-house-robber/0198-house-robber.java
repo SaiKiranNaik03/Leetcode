@@ -11,18 +11,34 @@ class Solution {
     //     return dp[idx] = Math.max(pick,notpick);
     // }
     //tabuplation
+    // public int rob(int[] nums) {
+    //     int n = nums.length;
+    //     int dp[] = new int[n];
+    //     Arrays.fill(dp,-1);
+    //     dp[0] = nums[0];
+    //     for(int i=1;i<n;i++){
+    //         int pick = nums[i];
+    //         if(i-2 >= 0) pick += dp[i-2];
+    //         int nonpick = dp[i-1];
+
+    //         dp[i] = Math.max(pick , nonpick);
+    //     }
+    //     return dp[n-1];
+    // }
+    // optimal
     public int rob(int[] nums) {
         int n = nums.length;
-        int dp[] = new int[n];
-        Arrays.fill(dp,-1);
-        dp[0] = nums[0];
+        int prev = nums[0];
+        int prev2 = 0;
         for(int i=1;i<n;i++){
             int pick = nums[i];
-            if(i-2 >= 0) pick += dp[i-2];
-            int nonpick = dp[i-1];
+            if(i-2 >= 0) pick += prev2;
+            int nonpick = prev;
 
-            dp[i] = Math.max(pick , nonpick);
+            int cur = Math.max(pick , nonpick);
+            prev2 = prev;
+            prev = cur;
         }
-        return dp[n-1];
+        return prev;
     }
 }
