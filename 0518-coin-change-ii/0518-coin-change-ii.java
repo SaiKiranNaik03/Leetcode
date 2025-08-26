@@ -1,5 +1,6 @@
 class Solution {
     int fun(int idx, int target, int coin[], int dp[][]){
+        if(target == 0) return 1;
         if(idx == 0){
             if(target%coin[idx] == 0)return 1;
             else return 0;
