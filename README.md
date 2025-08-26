@@ -289,6 +289,7 @@ leetcode programs!
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -349,6 +350,7 @@ leetcode programs!
 | [0410-split-array-largest-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -590,4 +592,8 @@ leetcode programs!
 | ------- |
 | [0070-climbing-stairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
