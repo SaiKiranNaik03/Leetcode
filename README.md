@@ -231,6 +231,7 @@ leetcode programs!
 | [0812-rotate-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -357,6 +358,7 @@ leetcode programs!
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
