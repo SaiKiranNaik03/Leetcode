@@ -305,6 +305,7 @@ leetcode programs!
 | [0518-coin-change-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0735-asteroid-collision) |
@@ -370,6 +371,7 @@ leetcode programs!
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -411,6 +413,7 @@ leetcode programs!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2032-largest-odd-number-in-string) |
