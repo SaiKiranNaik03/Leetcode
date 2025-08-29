@@ -74,6 +74,7 @@ leetcode programs!
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -126,6 +127,7 @@ leetcode programs!
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -190,6 +192,7 @@ leetcode programs!
 | [0451-sort-characters-by-frequency](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
+| [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
@@ -236,6 +239,7 @@ leetcode programs!
 | [0812-rotate-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -322,6 +326,7 @@ leetcode programs!
 | [1039-find-the-town-judge](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -381,6 +386,7 @@ leetcode programs!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1013-fibonacci-number) |
+| [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
