@@ -72,6 +72,7 @@ leetcode programs!
 | [0451-sort-characters-by-frequency](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0778-reorganize-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0778-reorganize-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
@@ -192,6 +193,7 @@ leetcode programs!
 | [0451-sort-characters-by-frequency](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
+| [0778-reorganize-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0778-reorganize-string) |
 | [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Merge Sort
@@ -236,6 +238,7 @@ leetcode programs!
 | [0516-longest-palindromic-subsequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0778-reorganize-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -429,6 +432,7 @@ leetcode programs!
 | [0455-assign-cookies](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0778-reorganize-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -451,6 +455,7 @@ leetcode programs!
 | ------- |
 | [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0778-reorganize-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2486-most-frequent-even-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Binary Indexed Tree
@@ -472,6 +477,7 @@ leetcode programs!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0778-reorganize-string) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Depth-First Search
 |  |
