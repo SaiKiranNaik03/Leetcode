@@ -1,19 +1,12 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int hash[] = new int[26];
+        char res = 0;
         for(char ch : s.toCharArray()){
-            hash[ch-'a']++;
+            res ^= ch;
         }
         for(char ch : t.toCharArray()){
-            hash[ch-'a']++;
+            res ^= ch;
         }
-        int res = -1;
-        for(int i=0;i<26;i++){
-            if(hash[i]%2==1){
-                res = i;
-                break;
-            }
-        }
-        return (char)(res + 'a');
+        return res;
     }
 }
