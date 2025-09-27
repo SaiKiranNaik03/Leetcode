@@ -1,19 +1,20 @@
 class Solution {
-    List<Integer> genrateRow(int row){
-        long ans = 1;
-        List<Integer> r = new ArrayList<>();
-        r.add((int)ans);
-        for(int col=1;col<row;col++){
-            ans = ans*(row-col);
-            ans = ans/col;
-            r.add((int)ans);
+    static int NcR(int n , int r){
+        int res = 1;
+        for(int i=0;i<r;i++){
+            res *= (n-i);
+            res /= (i+1);
         }
-        return r;
+        return res;
     }
-    public List<List<Integer>> generate(int numRows) {
+    public List<List<Integer>> generate(int row) {
         List<List<Integer>> res = new ArrayList<>();
-        for(int i=1;i<=numRows;i++){
-            res.add(genrateRow(i));
+        for(int i=1;i<=row;i++){
+            List<Integer> temp = new ArrayList<>();
+            for(int j=0;j<i;j++){
+                temp.add(NcR(i-1,j));
+            }
+            res.add(temp);
         }
         return res;
     }
