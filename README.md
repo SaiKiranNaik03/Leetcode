@@ -61,6 +61,7 @@ leetcode programs!
 | [0142-linked-list-cycle-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -178,6 +179,7 @@ leetcode programs!
 | [0004-median-of-two-sorted-arrays](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
@@ -190,6 +192,7 @@ leetcode programs!
 | [0088-merge-sorted-array](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0242-valid-anagram) |
@@ -301,6 +304,7 @@ leetcode programs!
 | [0152-maximum-product-subarray](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
@@ -482,6 +486,7 @@ leetcode programs!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0778-reorganize-string) |
