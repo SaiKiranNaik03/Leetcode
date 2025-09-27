@@ -8,6 +8,7 @@ leetcode programs!
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0069-sqrtx) |
@@ -268,6 +269,7 @@ leetcode programs!
 | [0035-search-insert-position](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0056-merge-intervals) |
@@ -418,6 +420,7 @@ leetcode programs!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0064-minimum-path-sum) |
