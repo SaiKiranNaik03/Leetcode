@@ -1,17 +1,17 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int oCount = 0, cCount = 0;
-        for (char i : s.toCharArray()) {
-            if (i == '(') {
-                oCount++;
-            } else {
-                if (oCount > 0) {
-                    oCount--;
-                } else {
-                    cCount++;
-                }
+        int c,o;
+        c = o = 0;
+        int n = s.length();
+        for(int i=0;i<n;i++){
+            if(s.charAt(i) == '('){
+                o++;
+            }
+            else{
+                if(o > 0) o--;
+                else c++;
             }
         }
-        return oCount + cCount;
+        return c+o;
     }
 }
