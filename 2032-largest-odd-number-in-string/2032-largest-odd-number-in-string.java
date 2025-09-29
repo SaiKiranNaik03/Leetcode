@@ -1,11 +1,15 @@
 class Solution {
-    public String largestOddNumber(String s) {
-        for(int i = s.length() - 1; i >= 0; i--){
-            int num = s.charAt(i);
-            if((num % 2) != 0){
-                return s.substring(0, i + 1);
+    public String largestOddNumber(String num) {
+        String res = "";
+        int n = num.length();
+        for(int i=n-1;i>=0;i--){
+            int no = num.charAt(i) - 48;
+            if(no%2 != 0){
+                // System.out.println(no);
+                res = num.substring(0,i+1);
+                break;
             }
         }
-        return "";
+        return res;
     }
 }
