@@ -1,20 +1,18 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        int hash1[] = new int[26];
-        int hash2[] = new int[26];
         int n = s.length();
         int m = t.length();
-        if(m != n) return false;
-
-        for(char ch : s.toCharArray()){
-            hash1[ch - 'a']++;
+        if(n != m) return false;
+        int hash1[] = new int[26];
+        int hash2[] = new int[26];
+        for(int i=0;i<n;i++){
+            char ch1 = s.charAt(i);
+            char ch2 = t.charAt(i);
+            hash1[ch1 - 'a']++;
+            hash2[ch2 - 'a']++;
         }
-        for(char ch : t.toCharArray()){
-            hash2[ch - 'a']++;
-        }
-
-        for(char ch : s.toCharArray()){
-            if(hash1[ch-'a'] != hash2[ch-'a']) return false;
+        for(int i=0;i<26;i++){
+            if(hash1[i] != hash2[i]) return false;
         }
         return true;
     }
