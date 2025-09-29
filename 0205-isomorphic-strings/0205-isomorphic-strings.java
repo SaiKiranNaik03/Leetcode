@@ -1,17 +1,22 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        if(s.length()!=t.length())return false;
-        int[] mapStoT=new int[256];
-        int[] mapTtoS=new int[256];
-        for(int i=0;i<s.length();i++){
-            char cs=s.charAt(i);
-            char ct=t.charAt(i);
-            if(mapStoT[cs]!=mapTtoS[ct])return false;
+        HashMap<Character, Character> map = new HashMap<>();
+        int n = s.length();
+        int m = t.length();
+        if(n != m) return false;
 
-            mapStoT[cs]=i+1;
-            mapTtoS[ct]=i+1;
+        for(int i=0;i<n;i++){
+            char ch1 = s.charAt(i);
+            char ch2 = t.charAt(i);
+            if(!map.containsKey(ch1)){
+                if(!map.containsValue(ch2)){
+                    map.put(ch1,ch2);
+                }else{
+                    return false;
+                }
+            }
+            else if(ch2 != map.get(ch1)) return false;
         }
-    
-    return true;
+        return true;
     }
 }
