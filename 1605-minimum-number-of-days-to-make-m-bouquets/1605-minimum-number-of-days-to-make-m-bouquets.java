@@ -1,48 +1,35 @@
 class Solution {
-    static int[] findMinMax(int arr[]) {
-        int mini = arr[0];
-        int maxi = arr[0];
-        for (int ele : arr) {
-            if (ele > maxi)
-                maxi = ele;
-            if (ele < mini)
-                mini = ele;
-        }
-        return new int[] { mini, maxi };
-    }
-    static int findFlow(int arr[], int day, int req){
-        int c=0;
-        int total=0;
-        for(int ele : arr){
-            if(ele <= day){
-                c++;
-            }else{
-                total += c/req;
-                c=0;
+    static int total(int arr[], int day, int k) {
+        int total = 0, cnt = 0;
+        for (int b : arr) {
+            if (b <= day) {
+                cnt++;
+            } else {
+                total += cnt / k;
+                cnt = 0;
             }
         }
-        total+=c/req;
+        total += cnt / k;
         return total;
     }
-    public int minDays(int[] bloomDay, int m, int k) {
-        if(m==89945 && k==32127) return -1;
-        int res[] = findMinMax(bloomDay);
-        int low = res[0];
-        int high = res[1];
-        int n = bloomDay.length;
-        if(m*k > n){
-            return -1;
-        }
 
-        while(low <=  high){
-            int mid =(low+high)/2;
-            int flow = findFlow(bloomDay,mid,k);
-            if(flow >= m){
-                high = mid-1;
-            }else{
-                low = mid+1;
+    public int minDays(int[] bloomDay, int m, int k) {
+        if (m * k > bloomDay.length) return -1;
+
+        int low = 1, high = 0;
+        for (int b : bloomDay) high = Math.max(high, b);
+
+        int ans = -1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            int flo = total(bloomDay, mid, k);
+            if (flo >= m) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
-        return low;
+        return ans;
     }
 }
