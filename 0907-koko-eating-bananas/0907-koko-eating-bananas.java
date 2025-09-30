@@ -1,35 +1,25 @@
 class Solution {
-    static int findMax(int arr[]){
-        int maxi = arr[0];
-        for(int el : arr){
-            if(el > maxi){
-                maxi = el;
-            }
+    long getK(int k, int piles[]){
+        long hrs =0;
+        for(int p : piles){
+            hrs += (long)Math.ceil((double)p/k);
         }
-        return maxi;
-    }
-    static long findTime(int arr[], int limit){
-        long totalTime=0;
-        for(int bn : arr){
-            totalTime += (long)Math.ceil((double)bn / limit);
-        }
-        return totalTime;
+        return hrs;
     }
     public int minEatingSpeed(int[] piles, int h) {
         int low = 1;
-        int high = findMax(piles);
-        int ans = -1;
+        int high = -1;
+        for(int p : piles) high = Math.max(high,p);
+
         while(low <= high){
-            int mid =(low+high)/2;
-            long time = findTime(piles,mid);
-            if(time <= h){
-                ans = mid;
-                high = mid-1;
+            int mid = (low + high)/2;
+            long res = getK(mid,piles);
+            if(res <= h){
+                high = mid - 1;
             }else{
-                low = mid+1;
+                low = mid + 1;
             }
         }
-        return ans;
-
+        return low;
     }
 }
