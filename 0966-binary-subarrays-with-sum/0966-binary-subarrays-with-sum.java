@@ -1,23 +1,37 @@
 class Solution {
-    static int getCount(int arr[],int k){
-        int left=0;
-        int right=0;
-        int n = arr.length;
-        int sum=0;
-        int c=0;
-        while(right < n){
-            sum += arr[right];
-            while(sum > k){
-                sum-=arr[left];
-                left++;
-            }
-            if(sum <= k) c+=(right - left +1);
-            right++;
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        // int l,r;
+        // l=r=0;
+        // int c=0;
+        // int sum=0;
+        // int n = nums.length;
+
+        // while(r < n){
+        //     sum += nums[r];
+
+        //     while(sum > goal){
+        //         sum -= nums[l];
+        //         l++;
+        //     }
+        //     if(sum <= goal) c = r-l+1;
+
+        //     r++;
+        // }
+        // return c;
+        int c,sum;
+        sum = c = 0;
+        int n = nums.length;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(0,1);
+
+        for(int i=0;i<n;i++){
+            sum += nums[i];
+
+            int rem = sum - goal;
+            c += map.getOrDefault(rem,0);
+
+            map.put(sum,map.getOrDefault(sum,0)+1);
         }
         return c;
-    }
-    public int numSubarraysWithSum(int[] nums, int goal) {
-        if(goal - 1 < 0) return getCount(nums,goal);
-        return getCount(nums,goal) - getCount(nums,goal - 1);
     }
 }
