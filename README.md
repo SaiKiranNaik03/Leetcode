@@ -368,6 +368,7 @@ leetcode programs!
 | [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -629,6 +630,7 @@ leetcode programs!
 | [0724-find-pivot-index](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -654,6 +656,7 @@ leetcode programs!
 | [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Data Stream
 |  |
 | ------- |
