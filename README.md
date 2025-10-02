@@ -298,6 +298,7 @@ leetcode programs!
 | [0073-set-matrix-zeroes](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -488,6 +489,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0268-missing-number) |
@@ -698,5 +700,6 @@ leetcode programs!
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
