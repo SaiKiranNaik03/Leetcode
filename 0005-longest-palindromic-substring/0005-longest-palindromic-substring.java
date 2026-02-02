@@ -17,9 +17,9 @@ class Solution {
             maxi = Math.max(odd, even);
             if(maxi > end - start){
                 start = i - (maxi - 1)/2;
-                end = i + maxi/2;
+                end = i + maxi/2 + 1;
             }
         }
-        return s.substring(start,end+1);
+        return s.substring(start,end);
     }
 }
