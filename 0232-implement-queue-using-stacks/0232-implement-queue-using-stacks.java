@@ -7,11 +7,11 @@ class MyQueue {
     }
     
     public void push(int x) {
-        for( ; !stack1.isEmpty(); ){
+        while(!stack1.isEmpty()){
             stack2.push(stack1.pop());
         }
         stack1.push(x);
-        for(; !stack2.isEmpty(); ){
+        while(!stack2.isEmpty()){
             stack1.push(stack2.pop());
         }
     }
