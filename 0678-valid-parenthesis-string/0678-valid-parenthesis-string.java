@@ -1,21 +1,25 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int open,close;
-        open = close = 0;
-        for(char ch : s.toCharArray()){
+        int n = s.length();
+        int mini=0;
+        int maxi=0;
+
+        for(int i=0;i<n;i++){
+            char ch = s.charAt(i);
             if(ch == '('){
-                open++;
-                close++;
+                mini++;
+                maxi++;
             }else if(ch == ')'){
-                open--;
-                close--;
+                mini--;
+                maxi--;
             }else{
-                open++;
-                close--;
+                mini--;
+                maxi++;
             }
-            if(open < 0) return false;
-            if(close < 0) close = 0;
+            if(mini < 0) mini=0;
+            if(maxi < 0) return false;
         }
-        return close==0;
+        return mini == 0;
     }
+    
 }
