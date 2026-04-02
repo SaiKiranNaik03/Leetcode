@@ -1,20 +1,20 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int c = 0;
-        int num = -1;
         int n = nums.length;
+        int maj,cnt;
+        cnt = 0;
+        maj = 0;
+
         for(int ele : nums){
-            if(c==0){
-                num= ele;
-                c=1; 
-            }else if(num == ele) c++;
-            else c--;
+            if(cnt == 0){
+                maj = ele;
+                cnt = 1;
+            }else if(ele == maj){
+                cnt++;
+            }else{
+                cnt--;
+            }
         }
-        c=0;
-        for(int ele : nums){
-            if(num == ele) c++;
-        }
-        if(c > (n/2)) return num;
-        return -1;
+        return maj;
     }
 }
