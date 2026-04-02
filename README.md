@@ -24,6 +24,7 @@ leetcode programs!
 | [1370-count-number-of-nice-subarrays](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2998-count-symmetric-integers](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@ leetcode programs!
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2486-most-frequent-even-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -392,6 +394,7 @@ leetcode programs!
 | [2486-most-frequent-even-element](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -480,6 +483,7 @@ leetcode programs!
 | [2047-find-a-peak-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
