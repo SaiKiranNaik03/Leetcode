@@ -10,7 +10,7 @@ class Solution {
 
             int rem = sum - k;
 
-            cnt += Math.max(cnt,map.getOrDefault(rem,0));
+            cnt += map.getOrDefault(rem,0);
 
             map.put(sum,map.getOrDefault(sum,0)+1);
         }
