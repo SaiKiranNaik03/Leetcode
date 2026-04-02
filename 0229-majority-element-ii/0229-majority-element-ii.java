@@ -1,33 +1,33 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int c1,c2,ele1,ele2;
-        c1=c2=0;
-        ele1=ele2=Integer.MIN_VALUE;
+        int n = nums.length;
+        int ele1,ele2,cnt1,cnt2;
+        ele1 = ele2 = cnt1 = cnt2 = 0;
 
         for(int ele : nums){
-            if(c1 == 0 && ele != ele2){
-                c1 = 1;
+            if(cnt1 == 0 && ele != ele2){
+                cnt1 = 1;
                 ele1 = ele;
-            }else if(c2 == 0 && ele != ele1){
-                c2 = 1;
+            }
+            else if(cnt2 == 0 && ele != ele1){
+                cnt2 =1;
                 ele2 = ele;
             }
-            else if(ele1 == ele) c1++;
-            else if(ele2 == ele) c2++;
+            else if(ele == ele1) cnt1++;
+            else if(ele == ele2) cnt2++;
             else{
-                c1--;
-                c2--;
+                cnt1--;
+                cnt2--;
             }
         }
         List<Integer> res = new ArrayList<>();
-        c1 = c2 = 0;
-        int mini = (nums.length/3)+1;
+        cnt1 = cnt2 = 0;
         for(int ele : nums){
-            if(ele1 == ele) c1++;
-            if(ele2 == ele) c2++;
+            if(ele == ele1) cnt1++;
+            else if(ele == ele2) cnt2++;
         }
-        if(c1 >= mini) res.add(ele1);
-        if(c2 >= mini) res.add(ele2);
+        if(cnt1 >= n/3+1) res.add(ele1);
+        if(cnt2 >= n/3+1) res.add(ele2);
         return res;
     }
 }
