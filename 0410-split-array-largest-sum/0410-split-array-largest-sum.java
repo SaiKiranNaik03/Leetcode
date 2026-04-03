@@ -1,35 +1,30 @@
 class Solution {
-    static int[] findLH(int arr[]){
-        int mini = arr[0];
-        int s=0;
-        for(int ele : arr){
-            s+=ele;
-            if(ele > mini){
-                mini= ele;
-            }
-        }
-        return new int[]{mini,s};
-    }
-    static boolean splitW(int arr[], int k, int mini){
-        int done=1;;
-        int tm=0;
-        for(int t : arr){
-            if(t + tm <= mini){
-                tm+=t;
+    int getM(int nums[], int sum){
+        int total,c;
+        total=c=0;
+        for(int n : nums){
+            if(c+n <= sum){
+                c+=n;
             }else{
-                done++;
-                tm=t;
+                total++;
+                c=n;
             }
         }
-        return done > k;
+        return total;
     }
     public int splitArray(int[] nums, int k) {
-        int res[] = findLH(nums);
-        int low = res[0];
-        int high = res[1];
+        int n = nums.length;
+        int low = -1;
+        int high = 0;
+        for(int no : nums){
+            low = Math.min(low,no);
+            high+=no;
+        }
+
         while(low <= high){
-            int mid =(low+high)/2;
-            if(splitW(nums,k,mid)){
+            int mid = (low+high)/2;
+            int res = getM(nums,mid);
+            if(res >= k){
                 low = mid+1;
             }else{
                 high = mid-1;
