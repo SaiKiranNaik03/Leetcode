@@ -1,35 +1,39 @@
 class Solution {
-    public static int getDays(int weights[], int cap){
-        int d,c;
-        d=c=0;
+    int[] getLH(int nums[]){
+        int low = -1;
+        int high = -1;
+        for(int n : nums){
+            low = Math.max(low,n);
+            high +=n;
+        }
+        return new int[]{low,high};
+    }
+    int getD(int weights[], int cap){
+        int total = 0;
+        int c = 0;
         for(int w : weights){
-            if(c+w <= cap){
+            if(c + w <= cap){
                 c+=w;
             }else{
-                d++;
+                total++;
                 c=w;
             }
         }
-        if(c > 0) d++;
-        return d;
+        if(c > 0) total++;
+        return total;
     }
     public int shipWithinDays(int[] weights, int days) {
-        int n = weights.length;
-        int low,high;
-        low = high = -1;
-        for(int w : weights){
-            low = Math.max(low,w);
-            high += w;
-        }
-        int ans = 0;
+        int lh[] = getLH(weights);
+        int low = lh[0];
+        int high = lh[1];
+
         while(low <= high){
-            int mid = (low + high)/2;
-            int res = getDays(weights,mid);
-            if(res <= days){
-                ans = mid;
-                high = mid -1;
-            }else{
+            int mid = (low+high)/2;
+            int res = getD(weights,mid);
+            if(res > days){
                 low = mid+1;
+            }else{
+                high = mid-1;
             }
         }
         return low;
