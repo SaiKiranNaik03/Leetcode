@@ -54,6 +54,7 @@ leetcode programs!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -387,6 +388,7 @@ leetcode programs!
 | [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
