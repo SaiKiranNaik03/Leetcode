@@ -1,15 +1,15 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
         int n = arr.length;
-        int maxi = arr[n-1]+k;
-        int hash[] = new int[maxi + 1];
-        for(int ele : arr) hash[ele]++;
+        int cap = arr[n-1] + k +1;
+        int hash[] = new int[cap];
+        for(int a : arr) hash[a]++;
 
         int c = 0;
-        for(int i=1;i<maxi+1;i++){
+        for(int i=1;i<cap;i++){
             if(hash[i] == 0) c++;
             if(c == k) return i;
         }
-        return n;
+        return arr[n-1]+k;
     }
 }
