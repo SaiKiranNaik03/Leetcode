@@ -277,6 +277,7 @@ leetcode programs!
 | [0583-delete-operation-for-two-strings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -679,6 +680,7 @@ leetcode programs!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
