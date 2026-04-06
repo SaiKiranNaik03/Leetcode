@@ -1,52 +1,23 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        /*int n=fruits.length;
-        int left=0,right=0,maxfruites=0;
-        HashMap<Integer,Integer> map = new HashMap<>();
+        int n = fruits.length;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int left , right;
+        left = right = 0;
+        int maxi = 0 ;
         while(right < n){
-            if(map.containsKey(fruits[right])){
-                map.put(fruits[right],map.get(fruits[right])+1);
-            }
-            else{
-                map.put(fruits[right],1);
-            }
-            while(map.size() > 2){
-                map.put(fruits[left],map.get(fruits[left])-1);
-                if(map.get(fruits[left])==0){
-                    map.remove(fruits[left]);
-                }
-                left++;
-            }
-            if(map.size() <= 2){
-                int len = right-left+1;
-                if(len > maxfruites){
-                    maxfruites=len;
-                }
-            }
-            right++;
-        }
-        return maxfruites;*/
-        
-        int n=fruits.length;
-        int left=0,right=0,maxfruites=0;
-        HashMap<Integer,Integer> map = new HashMap<>();
-        while(right < n){
-            map.put(fruits[right], map.getOrDefault(fruits[right], 0) + 1);
+            map.put(fruits[right],map.getOrDefault(fruits[right],0)+1);
             if(map.size() > 2){
                 map.put(fruits[left],map.get(fruits[left])-1);
-                if(map.get(fruits[left])==0){
-                    map.remove(fruits[left]);
-                }
+                if(map.get(fruits[left]) == 0 ) map.remove(fruits[left]);
                 left++;
             }
+
             if(map.size() <= 2){
-                int len = right-left+1;
-                if(len > maxfruites){
-                    maxfruites=len;
-                }
+                maxi = Math.max(maxi, right-left+1);
             }
             right++;
         }
-        return maxfruites;
+        return maxi;
     }
 }
