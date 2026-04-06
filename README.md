@@ -91,6 +91,7 @@ leetcode programs!
 | [0496-next-greater-element-i](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0778-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -381,6 +382,7 @@ leetcode programs!
 | [0792-binary-search](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -690,6 +692,7 @@ leetcode programs!
 | [0219-contains-duplicate-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
