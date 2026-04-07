@@ -533,6 +533,7 @@ leetcode programs!
 | [0389-find-the-difference](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0389-find-the-difference) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Combinatorics
 |  |
 | ------- |
