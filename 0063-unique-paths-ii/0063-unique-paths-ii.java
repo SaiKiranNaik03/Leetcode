@@ -1,41 +1,21 @@
 class Solution {
-    int fun(int i, int j, int grid[][], int dp[][]){
-        if(i>=0 && j>=0 && grid[i][j] == 1) return 0;
-        if(i==0 && j==0) return 1;
+    int helper(int i, int j, int dp[][], int arr[][]){
+        if(i>=0 && j>=0 && arr[i][j] == 1) return 0;
         if(i<0 || j<0) return 0;
+        if(i==0 && j==0) return 1;
         if(dp[i][j] != -1) return dp[i][j];
-        int up = fun(i-1,j,grid,dp);
-        int left = fun(i,j-1,grid,dp);
+
+        int up = helper(i-1,j,dp,arr);
+        int left = helper(i,j-1,dp,arr);
 
         return dp[i][j] = up+left;
     }
-    public int uniquePathsWithObstacles(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int dp[][] = new int[n][m];
+    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
+        int m = obstacleGrid.length;
+        int n = obstacleGrid[0].length;
+        int dp[][] = new int[m][n];
         for(int ro[] : dp) Arrays.fill(ro,-1);
 
-        return fun(n-1,m-1,grid,dp);
+        return helper(m-1,n-1,dp,obstacleGrid);        
     }
-    // public int uniquePathsWithObstacles(int[][] grid) {
-    //     int n = grid.length;
-    //     int m = grid[0].length;
-    //     int dp[][] = new int[n][m];
-    //     dp[0][0] = 1;
-    //     for(int i=0;i<n;i++){
-    //         for(int j=0;j<m;j++){
-    //             int up=0;
-    //             int left=0;
-    //             if(i==0 && j==0) continue;
-    //             if(i > 0 && grid[i-1][j] != -1){
-    //                 up = dp[i-1][j];
-    //             }
-    //             if(j>0 && grid[i][j-1] != -1){
-    //                 left = dp[i][j-1];
-    //             }
-    //             dp[i][j] = up + left;
-    //         }
-    //     }
-    //     return dp[n-1][m-1];
-    // }
 }
