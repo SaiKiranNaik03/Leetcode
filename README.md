@@ -270,6 +270,7 @@ leetcode programs!
 | [0205-isomorphic-strings](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -582,6 +583,7 @@ leetcode programs!
 | [0200-number-of-islands](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
@@ -737,6 +739,7 @@ leetcode programs!
 | [0110-balanced-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -749,6 +752,7 @@ leetcode programs!
 | [0110-balanced-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Brainteaser
 |  |
@@ -767,5 +771,6 @@ leetcode programs!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
