@@ -34,10 +34,11 @@ class Solution {
             int len = q.size();
             int first,last;
             first = last = 0;
+            int mini = q.peek().idx;
             for(int i=0;i<len;i++){
                 Pair p = q.poll();
                 TreeNode nd = p.node;
-                int id = p.idx;
+                int id = p.idx-mini;
                 if(i == 0) first = id;
                 if(i == len-1) last = id;
 
