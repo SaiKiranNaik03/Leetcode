@@ -587,6 +587,7 @@ leetcode programs!
 | [0257-binary-tree-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -608,6 +609,7 @@ leetcode programs!
 | [0322-coin-change](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -743,6 +745,7 @@ leetcode programs!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -757,6 +760,7 @@ leetcode programs!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
