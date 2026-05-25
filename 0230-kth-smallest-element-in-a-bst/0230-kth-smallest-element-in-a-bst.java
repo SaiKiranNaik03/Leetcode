@@ -14,16 +14,21 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> inorder = new ArrayList<>();
-    void travel(TreeNode node){
-        if(node == null) return;
+    int ans = -1;
+    int cnt = 0;
+    void travel(TreeNode node, int k){
+        if(node == null) return ;
 
-        travel(node.left);
-        inorder.add(node.val);
-        travel(node.right);
+        travel(node.left, k);
+        cnt++;
+        if(cnt == k){
+            ans = node.val;
+            return ;
+        }
+        travel(node.right,k);
     }
     public int kthSmallest(TreeNode root, int k) {
-        travel(root);
-        return inorder.get(k-1);
+        travel(root,k);
+        return ans;
     }
 }
