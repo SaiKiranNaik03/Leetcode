@@ -14,24 +14,49 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> res = new ArrayList<>();
-    void travel(TreeNode node){
-        if(node == null) return ;
+    Stack<TreeNode> stk1 = new Stack<>();
+    Stack<TreeNode> stk2 = new Stack<>();
 
-        travel(node.left);
-        res.add(node.val);
-        travel(node.right);
+    void pushL(TreeNode node){
+        while(node != null){
+            stk1.push(node);
+            node = node.left;
+        }
+    }
+    int next(){
+        if(!stk1.isEmpty()){
+            TreeNode nd = stk1.pop();
+            pushL(nd.right);
+            return nd.val;
+        }
+        return -1;
+    }
+
+    void pushR(TreeNode node){
+        while(node != null){
+            stk2.push(node);
+            node = node.right;
+        }
+    }
+    int before(){
+        if(!stk2.isEmpty()){
+            TreeNode nd = stk2.pop();
+            pushR(nd.left);
+            return nd.val;
+        }
+        return -1;
     }
     public boolean findTarget(TreeNode root, int k) {
-        travel(root);
-        int i=0;
-        int j=res.size()-1;
-
-        while(i < j){
-            int num = res.get(i) + res.get(j);
-            if(num == k) return true;
-            else if(num < k) i++;
-            else j--;
+        pushL(root);
+        pushR(root);
+        int num1 = next();
+        int num2 = before();
+        while(num1 < num2 ){
+            int sum = num1 + num2;
+            if(sum == k){
+                return true;
+            }else if(sum < k) num1 = next();
+            else num2 = before();
         }
         return false;
     }
