@@ -14,26 +14,34 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> order = new ArrayList<>();
+    TreeNode prev,first,mid,last;
 
-    void getOrder(TreeNode node){
-        if(node == null) return ;
-
-        getOrder(node.left);
-        order.add(node.val);
-        getOrder(node.right);
-    }
-    int i = 0;
-    void setOrder(TreeNode node){
+    void travel(TreeNode node){
         if(node == null) return;
 
-        setOrder(node.left);
-        node.val = order.get(i++);
-        setOrder(node.right);
+        travel(node.left);
+        if(prev != null && (node.val < prev.val)){
+            if(first == null){
+                first = prev;
+                mid = node;
+            }else last = node;
+        }
+        prev = node;
+        travel(node.right);
+
     }
     public void recoverTree(TreeNode root) {
-        getOrder(root);
-        Collections.sort(order);
-        setOrder(root);
+        first = mid = last = null;
+        prev = new TreeNode(Integer.MIN_VALUE);
+        travel(root);
+        if(last == null){
+            int temp = mid.val;
+            mid.val = first.val;
+            first.val = temp;
+        }else{
+            int temp = last.val;
+            last.val = first.val;
+            first.val = temp;
+        }
     }
 }
