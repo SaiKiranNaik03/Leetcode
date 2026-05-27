@@ -202,6 +202,7 @@ leetcode programs!
 | [0937-online-stock-span](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -402,6 +403,7 @@ leetcode programs!
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1036-rotting-oranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -438,6 +440,7 @@ leetcode programs!
 | [0503-next-greater-element-ii](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
@@ -783,6 +786,7 @@ leetcode programs!
 | [0700-search-in-a-binary-search-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -811,6 +815,7 @@ leetcode programs!
 | [0700-search-in-a-binary-search-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Brainteaser
 |  |
 | ------- |
@@ -841,6 +846,7 @@ leetcode programs!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
 | ------- |
