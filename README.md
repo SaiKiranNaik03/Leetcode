@@ -488,6 +488,7 @@ leetcode programs!
 | [1129-longest-string-chain](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Simulation
 |  |
@@ -616,6 +617,7 @@ leetcode programs!
 | [0820-find-eventual-safe-states](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SaiKiranNaik03/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -787,6 +789,7 @@ leetcode programs!
 | [0701-insert-into-a-binary-search-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -816,6 +819,7 @@ leetcode programs!
 | [0701-insert-into-a-binary-search-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -847,6 +851,7 @@ leetcode programs!
 | [0700-search-in-a-binary-search-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/SaiKiranNaik03/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
